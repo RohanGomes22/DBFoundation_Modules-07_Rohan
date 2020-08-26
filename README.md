@@ -2,7 +2,9 @@
 IT FDN 130 Summer 2020 
 Assignment 07 08/23/2020
 
-Explain when you would use a SQL UDF: The User Defined Functions in SQL are like functions that accept the parameter, performing complex calculations, and returning the result value. The return value can either be a single scalar value or a result set.      
+Explain when you would use a SQL UDF: 
+
+The User Defined Functions in SQL are like functions that accept the parameter, performing complex calculations, and returning the result value. The return value can either be a single scalar value or a result set.      
 They allow modular programming      
 They allow faster execution      
 They can reduce network traffic. 
